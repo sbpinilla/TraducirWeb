@@ -11,7 +11,7 @@ Web - Traducir web con jquery
 ![alt demo](https://github.com/sbpinilla/TraducirWeb/blob/master/demo/webdemo.gif)
 
 
-### json
+### Json
 
 #### page-es.json
 
